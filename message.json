@@ -1,6 +1,6 @@
 {
-   "message": "Tip: <a target='blank' href='https://trafikant.pro/marketing-attribution-full-guide/?utm_source=pixelHelperMessage&utm_medium=ph_extension'>Mastering Marketing Attribution</a>: A Comprehensive Guide",
+   "message": "Important: You might not see any data in the extension. I'm working on a fix.",
    "expiredAt": "2025-03-30",
-   "color":"green"
+   "color":"red"
   
 }
