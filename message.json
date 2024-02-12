@@ -1,6 +1,5 @@
 {
-   "message": "Coming soon! A major update for smoother browsing and optimized memory usage",
+   "message": "GTM tracking now turns off after 2min idle to optimize performance",
    "expiredAt": "2025-03-30",
-   "color":"red"
+   "color":"green"
 }
-
