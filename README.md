@@ -5,7 +5,8 @@
 - There should be **NO** redundant comma character (,) after attributes' value. Otherwise the extension's fetch will consider it invalid and thus can't properply parse it.
     - For exampe: {"x": "y",} is invalid
 - Schema
-    - ```export interface CloudMessage {
+```
+export interface CloudMessage {
     message: string,
     // if expiredAt is undefined, that mean a forever message
     expiredAt?: number,
