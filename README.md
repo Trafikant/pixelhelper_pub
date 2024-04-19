@@ -20,7 +20,8 @@ export interface CloudData {
         // Bottom message
         bottomMessage?: CloudMessage,
     }
-}```
+}
+```
 
 - Attributes explanation:
     - ```messages``` (optional) - ```string```:  The content to be displayed to users in extension. If this field doesn't exist, or has an empty value, the extension will interpret it as "No message"
