@@ -6,12 +6,12 @@
       "topRightMessage": {
           "message": "Try <a target='blank' href='https://chromewebstore.google.com/detail/ga4bq-ga4-bigquery-sql-ge/mificbalnpjmnnphbggmbhodmhomgigd'>GA4BQ</a> - a Free SQL Generator for GA4 on BigQuery",
           "expiredAt": "2025-01-30",
-         "color":"blue"
+         "color":"red"
       },
       "bottomMessage": {
           "message": "For bug reports and features requests click <a target='blank' href='https://forms.gle/1L1bZRJELJ2wgFCY8'>here</a>",
           "expiredAt": "2025-01-30",
-         "color":"blue"
+         "color":"green"
       }
    }
 }
