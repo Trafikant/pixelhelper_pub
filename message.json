@@ -4,7 +4,7 @@
    "color":"green",
    "messages": {
       "topRightMessage": {
-          "message": "Click the red beacon on the right and see what happens-->",
+          "message": "Click the red beacon and see what happens",
           "expiredAt": "2025-01-30",
          "color":"green"
       },
