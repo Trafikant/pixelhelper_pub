@@ -4,7 +4,7 @@
    "color":"green",
    "messages": {
       "topRightMessage": {
-          "message": "Click the red button for on-screen debugging",
+          "message": "Click the red beacon for on-screen debugging",
           "expiredAt": "2025-01-30",
          "color":"green"
       },
