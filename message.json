@@ -6,7 +6,7 @@
       "topRightMessage": {
           "message": "Click the red beacon for on-screen debugging",
           "expiredAt": "2025-01-30",
-         "color":"green"
+         "color":"red"
       },
       "bottomMessage": {
           "message": "Performance issues? Exclude websites from tracking by clicking <a target='blank' href='chrome-extension://mcbllemnjlbjigbodlillcadppimngfa/option.html'>here</a>",
