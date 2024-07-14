@@ -9,7 +9,7 @@
          "color":"red"
       },
       "bottomMessage": {
-          "message": "Performance issues? Exclude websites from tracking by clicking <a target='blank' href='chrome-extension://mcbllemnjlbjigbodlillcadppimngfa/option.html'>here</a>",
+          "message": "Performance issues? Exclude websites from tracking (via Options screen)</a>",
           "expiredAt": "2025-01-30",
          "color":"green"
       }
