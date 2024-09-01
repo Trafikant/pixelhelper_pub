@@ -9,7 +9,7 @@
          "color":"red"
       },
       "bottomMessage": {
-          "message": "Performance issues? Exclude websites from tracking (via Options screen)</a>",
+          "message": "Performance issues? Missing calls? contact <a target='blank' href='https://forms.gle/VYSjfpGFdc3Q7gFn8'>support</a>",
           "expiredAt": "2025-01-30",
          "color":"green"
       }
