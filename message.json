@@ -4,7 +4,7 @@
    "color":"green",
    "messages": {
       "topRightMessage": {
-          "message": "Get <a target='blank' href='https://trafikant.gumroad.com/l/TagHoundPlus'>TagHound Plus</a> and unlock on-screen debugging",
+          "message": "Use DevTools for a better view of the data!",
           "expiredAt": "2025-01-30",
          "color":"green"
       },
