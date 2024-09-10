@@ -4,9 +4,9 @@
    "color":"green",
    "messages": {
       "topRightMessage": {
-          "message": "Click the red beacon for on-screen debugging",
+          "message": "Get <a target='blank' href='https://trafikant.gumroad.com/l/TagHoundPlus'>TagHound Plus</a> and unlock on-screen debugging",
           "expiredAt": "2025-01-30",
-         "color":"red"
+         "color":"green"
       },
       "bottomMessage": {
           "message": "Performance issues? Missing calls? Contact <a target='blank' href='https://forms.gle/VYSjfpGFdc3Q7gFn8'>support</a>",
