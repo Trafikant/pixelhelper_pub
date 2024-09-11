@@ -4,7 +4,7 @@
    "color":"green",
    "messages": {
       "topRightMessage": {
-          "message": "Use DevTools for a better view of the data!",
+          "message": "Watch the full tutorial <a target='blank' href='https://www.youtube.com/watch?v=vpOJm8lwG-Q'>here</a>",
           "expiredAt": "2025-01-30",
          "color":"green"
       },
