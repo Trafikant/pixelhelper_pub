@@ -4,9 +4,9 @@
    "color":"green",
    "messages": {
       "topRightMessage": {
-          "message": "Tracking Pixel Essentials: <a target='blank' href='https://trafikant.gumroad.com/l/TrackingPixelEssentials'>Get the E-book Now!</a>",
+          "message": "Users reported missing GA4 calls. Fixing :)",
           "expiredAt": "2025-01-30",
-         "color":"green"
+         "color":"red"
       },
       "bottomMessage": {
           "message": "Performance issues? Missing calls? Contact <a target='blank' href='https://forms.gle/VYSjfpGFdc3Q7gFn8'>support</a>",
