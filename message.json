@@ -12,6 +12,12 @@
           "message": "Performance issues? Missing calls? Contact <a target='blank' href='https://forms.gle/VYSjfpGFdc3Q7gFn8'>support</a>",
           "expiredAt": "2025-01-30",
          "color":"green"
+      },
+      "support": {
+          "link": "https://forms.gle/1boUop8vHVcAsvMw5"
+      },
+      "video": {
+          "link": "https://www.youtube.com/watch?v=vpOJm8lwG-Q"
       }
    }
 }
