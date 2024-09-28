@@ -9,7 +9,7 @@
          "color":"green"
       },
       "bottomMessage": {
-          "message": "EU users reported missing GA4 calls. Fix rolling out",
+          "message": "Get <a target='blank' href='https://trafikant.gumroad.com/l/TagHoundPlus'>TagHound Plus</a> for on-screen debugging",
           "expiredAt": "2025-01-30",
          "color":"red"
       },
