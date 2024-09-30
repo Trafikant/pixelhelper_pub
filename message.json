@@ -4,9 +4,9 @@
    "color":"green",
    "messages": {
       "topRightMessage": {
-          "message": "Enjoying the extension? Please <a target='blank' href='https://chromewebstore.google.com/detail/taghound-analyticsgtmpixe/canpneabbfipaelecfibpmmjbdkiaolf'>rate us</a>",
+          "message": "Enjoying the extension? Please <a target='blank' href='https://chromewebstore.google.com/detail/taghound-analyticsgtmpixe/canpneabbfipaelecfibpmmjbdkiaolf'>rate</a>",
           "expiredAt": "2025-01-30",
-         "color":"green"
+         "color":"red"
       },
       "bottomMessage": {
           "message": "S2S events coming soon!",
