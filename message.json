@@ -4,7 +4,7 @@
    "color":"green",
    "messages": {
       "topRightMessage": {
-          "message": "Tracking Pixel Essentials: <a target='blank' href='https://trafikant.gumroad.com/l/TrackingPixelEssentials'>The E-book!</a>",
+          "message": "Enjoying the extension? Please <a target='blank' href='https://chromewebstore.google.com/detail/taghound-analyticsgtmpixe/canpneabbfipaelecfibpmmjbdkiaolf'>rate us</a>",
           "expiredAt": "2025-01-30",
          "color":"green"
       },
