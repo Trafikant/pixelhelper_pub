@@ -4,9 +4,9 @@
    "color":"green",
    "messages": {
       "topRightMessage": {
-          "message": "Enjoying the extension? <a target='blank' href='https://chromewebstore.google.com/detail/taghound-analyticsgtmpixe/canpneabbfipaelecfibpmmjbdkiaolf'>Please rate</a>🙏",
+          "message": "<a target='blank' href='https://trafikant.gumroad.com/l/TagHoundPlus'>Get TagHound Plus</a> for on-screen debugging 🤩",
           "expiredAt": "2025-01-30",
-         "color":"red"
+         "color":"green"
       },
       "bottomMessage": {
           "message": "Get 10% off <a target='blank' href='https://supermetrics.idevaffiliate.com/idevaffiliate.php?id=1016&tid1=th'>Supermetrics</a> with coupon code QUICKWIN10",
