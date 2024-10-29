@@ -4,7 +4,7 @@
    "color":"green",
    "messages": {
       "topRightMessage": {
-          "message": "New on V1.3! Add custom endpoints for S2S tracking",
+          "message": "New on V1.3! Add <a target='blank' href='chrome-extension://canpneabbfipaelecfibpmmjbdkiaolf/option.html'>custom endpoints</a> for S2S tracking",
           "expiredAt": "2025-01-30",
          "color":"green"
       },
