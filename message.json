@@ -4,9 +4,9 @@
    "color":"green",
    "messages": {
       "topRightMessage": {
-          "message": "<a target='blank' href='https://trafikant.gumroad.com/l/TagHoundPlus'>Get TagHound Plus</a> for on-screen debugging 🤩",
+          "message": "<a target='blank' href='https://docs.google.com/forms/d/e/1FAIpQLSdw6DaQWsau_dfpP-1NQ8TA8RLfci7gBMuGFvN-YWwDOk6Sqg/viewform?usp=sf_link'>What do you want?</a>",
           "expiredAt": "2025-01-30",
-         "color":"green"
+         "color":"red"
       },
       "bottomMessage": {
           "message": "Get 10% off <a target='blank' href='https://supermetrics.idevaffiliate.com/idevaffiliate.php?id=1016&tid1=th'>Supermetrics</a> with coupon code QUICKWIN10",
