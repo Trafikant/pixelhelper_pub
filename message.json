@@ -4,7 +4,7 @@
    "color":"green",
    "messages": {
       "topRightMessage": {
-          "message": "<a target='blank' href='https://docs.google.com/forms/d/e/1FAIpQLSdw6DaQWsau_dfpP-1NQ8TA8RLfci7gBMuGFvN-YWwDOk6Sqg/viewform?usp=sf_link'>What do you want?</a>",
+          "message": "If TagHound helped you, consider <a target='blank' href='https://buymeacoffee.com/trafikant'>buying me a coffee</a>☕",
           "expiredAt": "2025-01-30",
          "color":"red"
       },
