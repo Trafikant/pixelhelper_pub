@@ -5,12 +5,12 @@
    "messages": {
       "topRightMessage": {
           "message": "If TagHound helped you, consider <a target='blank' href='https://buymeacoffee.com/trafikant'>buying me a coffee</a>☕",
-          "expiredAt": "2025-01-30",
+          "expiredAt": "2027-01-30",
          "color":"red"
       },
       "bottomMessage": {
           "message": "Get 10% off <a target='blank' href='https://partners.supermetrics.com/supermetrics'>Supermetrics</a> with coupon code QUICKWIN10",
-          "expiredAt": "2025-01-30",
+          "expiredAt": "2027-01-30",
          "color":"green"
       },
       "support": {
