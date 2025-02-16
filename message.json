@@ -9,7 +9,7 @@
          "color":"red"
       },
       "bottomMessage": {
-          "message": "Get 10% off <a target='blank' href='https://partners.supermetrics.com/supermetrics'>Supermetrics</a> with coupon code QUICKWIN10",
+          "message": "Import marketing data into BigQuery for <a target='blank' href='https://www.coupler.io/?ref=coupler'>just $25/month</a>??",
           "expiredAt": "2027-01-30",
          "color":"green"
       },
