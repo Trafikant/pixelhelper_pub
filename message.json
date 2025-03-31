@@ -3,13 +3,13 @@
    "expiredAt": "2030-01-30",
    "color":"green",
    "messages": {
-      "topRightMessage": {
-          "message": "If TagHound helped you, consider <a target='blank' href='https://buymeacoffee.com/trafikant'>buying me a coffee</a>☕",
-          "expiredAt": "2027-01-30",
-         "color":"red"
+     "topRightMessage": {
+          "message": "Click the blue beacon for on-screen debugging",
+          "expiredAt": "2026-01-30",
+         "color":"green"
       },
       "bottomMessage": {
-          "message": "Import marketing data into BigQuery, RedShift or PostgreSQL for <a target='blank' href='https://www.coupler.io/?ref=coupler'>just $25/month</a>??",
+          "message": "Performance issues? Missing calls? Contact <a target='blank' href='https://forms.gle/VYSjfpGFdc3Q7gFn8'>support</a>",
           "expiredAt": "2027-01-30",
          "color":"green"
       },
