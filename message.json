@@ -4,12 +4,12 @@
    "color":"green",
    "messages": {
      "topRightMessage": {
-          "message": "Click the blue beacon for on-screen debugging",
+          "message": "Enjoying the extension? Please <a target='blank' href='https://chromewebstore.google.com/detail/taghound-analyticsgtmpixe/canpneabbfipaelecfibpmmjbdkiaolf'>rate🙏</a>",
           "expiredAt": "2026-01-30",
          "color":"green"
       },
       "bottomMessage": {
-          "message": "Enjoying the extension? Please <a target='blank' href='https://chromewebstore.google.com/detail/taghound-analyticsgtmpixe/canpneabbfipaelecfibpmmjbdkiaolf'>rate🙏</a>",
+          "message": "Ready for a data advantage? <a target='blank' href='https://trafikant.pro/about/#contact'>Connect</a> with me for custom strategies",
           "expiredAt": "2027-01-30",
          "color":"green"
       },
