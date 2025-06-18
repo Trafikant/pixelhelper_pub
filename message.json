@@ -9,9 +9,9 @@
          "color":"green"
       },
       "bottomMessage": {
-          "message": "Ready for a data advantage? <a target='blank' href='https://trafikant.pro/about/#contact'>Connect</a> with me for custom strategies",
+          "message": "48h Only: 50% Off TagHound Plus, <a target='blank' href='https://trafikant.gumroad.com/l/TagHoundPlus'>Use code '50-OFF'</a>",
           "expiredAt": "2027-01-30",
-         "color":"green"
+         "color":"red"
       },
       "support": {
           "link": "https://forms.gle/1boUop8vHVcAsvMw5"
