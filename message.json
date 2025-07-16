@@ -6,12 +6,12 @@
      "topRightMessage": {
           "message": "Click the blue beacon icon for on-screen debugging",
           "expiredAt": "2026-01-30",
-         "color":"green"
+         "color":"red"
       },
       "bottomMessage": {
           "message": "Enjoying the extension? Please <a target='blank' href='https://chromewebstore.google.com/detail/taghound-analyticsgtmpixe/canpneabbfipaelecfibpmmjbdkiaolf'>rate🙏</a>",
           "expiredAt": "2027-01-30",
-         "color":"red"
+         "color":"blue"
       },
       "support": {
           "link": "https://forms.gle/1boUop8vHVcAsvMw5"
